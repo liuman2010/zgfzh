@@ -26,5 +26,12 @@ class User
 	}
 
 
+	// 修改密码
+	public function changePassword()
+	{
+
+	}
+
+
 
 }//c
